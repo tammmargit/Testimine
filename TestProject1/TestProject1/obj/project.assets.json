@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\TestProject1.csproj",
+      "projectPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\ruthp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

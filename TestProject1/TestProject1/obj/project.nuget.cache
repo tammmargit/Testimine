@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2cZH6OQmjaY=",
+  "dgSpecHash": "Bab6mrjh8vs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruthp\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\ruthp\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

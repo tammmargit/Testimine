@@ -11,7 +11,7 @@ namespace selenium
         [SetUp]
         public void Setup()
         {
-            driver = new ChromeDriver();
+            driver = new ChromeDriver(@"C:\Users\ruthp\OneDrive\Desktop\Testimine_\TestProject1\TestProject1\drivers\");
             driver.Navigate().GoToUrl("http://www.google.co.in");
         }
 

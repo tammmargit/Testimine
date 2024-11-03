@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|c:\\users\\ruthp\\onedrive\\desktop\\testimine_selenium\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|c:\\users\\ruthp\\onedrive\\desktop\\testimine_\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|c:\\users\\ruthp\\onedrive\\desktop\\testimine_\\testproject1\\testproject1\\unittest1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.1.cs",
+              "DocumentMoniker": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\UnitTest1.1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.1.cs",
+              "ToolTip": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\UnitTest1.1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:52:50.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\UnitTest1.cs",
-              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_\\TestProject1\\TestProject1\\UnitTest1.cs*",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T12:31:24.253Z",
               "EditorCaption": ""
