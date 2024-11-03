@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|c:\\users\\ruthp\\onedrive\\desktop\\testimine_selenium\\testproject1\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09F03B9-221D-4446-A8D9-72A591F757B9}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ruthp\\OneDrive\\Desktop\\Testimine_Selenium\\TestProject1\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T12:31:24.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
